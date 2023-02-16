@@ -1,0 +1,13 @@
+names:
+- Billboard
+- Horizontal Billboard
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: roadeye
+  url: https://universe.roboflow.com/roadeye/roadeye/dataset/2
+  version: 2
+  workspace: roadeye
+test: C:\prajesh\ML\billboard_data\archive\mark3\RoadEye-2\test\images
+train: C:\prajesh\ML\billboard_data\archive\mark3\RoadEye-2\train\images
+val: C:\prajesh\ML\billboard_data\archive\mark3\RoadEye-2\valid\images
