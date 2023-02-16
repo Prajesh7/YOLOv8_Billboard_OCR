@@ -10,6 +10,6 @@ Dependencies:
 
 To run the test: 
 
-  -change the image path in the file yolo_v8_test.py
-  -change the weights path
-  -Run the python script: yolo_v8_test.py
+  - change the image path in the file yolo_v8_test.py
+  - change the weights path
+  - Run the python script: yolo_v8_test.py
